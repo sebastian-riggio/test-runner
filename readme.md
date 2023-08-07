@@ -34,5 +34,9 @@ La realización del test debe seguir el patrón de AAA (Arrange, Act, Assert):
 A --> Arrange ó Ajustar: configura el código, crea el escenario que el test pretende simular, de manera que el test quede aislado de todas sus dependencias. Esto podría incluir crear instancias de la unidad bajo el constructor del test, agregar registros de base de datos, mocks y stubs de objetos y cualquier otro código necesario.
 
 A --> Act ó Actuar: Ejecuta la unidad en test. Normalmente 1 línea de código.
+## Resultado
+
+
+![image](https://github.com/sebastian-riggio/test-runner/assets/84664104/4fac1828-dcd7-43a5-9f46-e926e17442b5)
 
 A --> Assert ó Afirmar: Comprobar que el valor recibido satisface las expectativas. Normalmente 1 línea de códig
