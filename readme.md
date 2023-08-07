@@ -37,6 +37,5 @@ A --> Act ó Actuar: Ejecuta la unidad en test. Normalmente 1 línea de código.
 ## Resultado
 
 
-![image](https://github.com/sebastian-riggio/test-runner/assets/84664104/4fac1828-dcd7-43a5-9f46-e926e17442b5)
-
 A --> Assert ó Afirmar: Comprobar que el valor recibido satisface las expectativas. Normalmente 1 línea de códig
+![image](https://github.com/sebastian-riggio/test-runner/assets/84664104/4fac1828-dcd7-43a5-9f46-e926e17442b5)
